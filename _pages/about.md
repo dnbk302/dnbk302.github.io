@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "👋🏼 Hello there, I'm Sumanth!"
+title: "👋🏼 Hello there!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -34,7 +34,7 @@ I believe the best software is invisible: it quietly empowers, adapts, and endur
 
 ## Beyond the Code
 
-I’m fascinated by the stories behind every system—how people use them, where they break, and how they can be better. I share what I learn on [YouTube](https://www.youtube.com/@stumbled001/videos), hoping to spark curiosity in others.
+I’m fascinated by the stories behind every system—how people use them, where they break, and how they can be better. I share what I learn on Medium.
 
 If you’re passionate about building things that last, or just want to talk tech, algorithms, or the art of learning—let’s connect.
 
